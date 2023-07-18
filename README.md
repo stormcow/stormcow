@@ -1,4 +1,7 @@
-![Top Langs](https://github-readme-stats-smoky-ten-16.vercel.app/api/top-langs/?username=stormcow&layout=pie&hide=jupyter%20notebook&langs_count=6)
+
+<div class='container' align='center'>
+<img style='width:50%; height:auto;' class="img" src="https://github-readme-stats-smoky-ten-16.vercel.app/api/top-langs/?username=stormcow&layout=donut&hide=jupyter%20notebook&langs_count=6" /></div>
+</div>
 
 <!--
 **stormcow/stormcow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
